@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<div align=center>
+
+#![](https://imgur.com/a/GWsAPzk.gif)
+
+ <a href="sanull@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-6D8346?style=flat-square&logo=Gmail&logoColor=white&link=sanull@kyonggi.ac.kr"/></a></a>
+ <a href="https://www.instagram.com/0b173b"><img src="https://img.shields.io/badge/instagram-ABC88B?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/0b173b"/></a></a>
+
+</div>
 
 <!--
 **sanw001/sanw001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
