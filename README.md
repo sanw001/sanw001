@@ -1,11 +1,13 @@
-
+  
 <div align=center>
-
-#![](https://imgur.com/a/GWsAPzk.gif)
-
- <a href="sanull@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-6D8346?style=flat-square&logo=Gmail&logoColor=white&link=sanull@kyonggi.ac.kr"/></a></a>
- <a href="https://www.instagram.com/0b173b"><img src="https://img.shields.io/badge/instagram-ABC88B?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/0b173b"/></a></a>
-
+  
+  
+  
+![MOSHED-2022-11-1-14-41-49](https://user-images.githubusercontent.com/117140159/199167069-bf83517b-f161-4974-b36c-f3acb143ed95.gif)  
+  
+  
+ <a href="sanull@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=sanull@kyonggi.ac.kr"/></a></a>
+ <a href="https://www.instagram.com/0b173b"><img src="https://img.shields.io/badge/instagram-ffffff?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/0b173b"/></a></a>
 </div>
 
 <!--
